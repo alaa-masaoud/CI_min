@@ -14,8 +14,8 @@ from openpyxl.utils import get_column_letter
 # ---------------------------------------------------------------------
 # INPUT AND OUTPUT FOLDERS
 # ---------------------------------------------------------------------
-INPUT_FOLDER = Path("outputs/raw_csv")
-OUTPUT_FOLDER = Path("outputs/newscore")
+INPUT_FOLDER = Path("outputs/optimalk/raw_csv")
+OUTPUT_FOLDER = Path("outputs/optimalk/newscore")
 
 
 # ---------------------------------------------------------------------
