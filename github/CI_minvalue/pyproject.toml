@@ -1,0 +1,12 @@
+[project]
+name = "evt-minimum-ci"
+version = "1.0.0"
+description = "Monte Carlo comparison of EVT alpha estimators through minimum prediction-interval coverage"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy",
+    "pandas",
+    "openpyxl",
+    "scipy",
+]

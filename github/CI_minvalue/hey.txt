@@ -1,0 +1,6 @@
+find the optimal k using the goodness score and get rid of the k poaradox and then study 
+how the properties of m n and p behave with an optimal k
+add p = .05
+
+Evaluating tail parameter esrimtaion methods for extreme value distribution: towards a 
+confidence interval for integrated information
